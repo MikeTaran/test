@@ -43,6 +43,8 @@
 	git gui&  - open GUI through Bash
 	gitk& - open full graf statistic branch commits
 	
+	new line
+	
 
 
 	
