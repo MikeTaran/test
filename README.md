@@ -10,6 +10,7 @@
 	Changes not staged for commit:
 	(use "git add <file>..." to update what will be committed) - commit
 	(use "git restore <file>..." to discard changes in working directory)
+	git add . - add all files
 	git commit -a -m "test commit 1" - commit local repo
 	git push - update GitHub
   
@@ -43,18 +44,10 @@
 	git gui&  - open GUI through Bash
 	gitk& - open full graf statistic branch commits
 	
+<<<<<<< HEAD
 	new line
 	second line
 	
+=======
+>>>>>>> 4f99736c8fd56d5b8054baad5314f6bd5880a802
 
-
-	
-
-
-
-
-	
-
-	
-
-add line
